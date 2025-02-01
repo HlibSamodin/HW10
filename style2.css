@@ -1,0 +1,20 @@
+.post-title {
+    text-align: center;
+}
+
+.post-text {
+    font-family: 'Unna', serif;
+    font-size: 20px;
+    color: #F67103;
+    font-weight: bold;
+}
+
+.post-text:first-of-type {
+    text-align: right;
+    white-space: pre-wrap;
+}
+
+.post-text:last-of-type {
+    text-align: justify;
+    word-break: keep-all;
+}
